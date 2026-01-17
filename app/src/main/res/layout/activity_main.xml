@@ -29,6 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="5"
+            android:gravity="center"
             android:text="TextView" />
 
         <Space
@@ -53,7 +54,8 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="10"
-            android:text="Button" />
+            android:text="Chose event type"
+            android:textSize="24sp" />
 
         <Space
             android:layout_width="match_parent"
